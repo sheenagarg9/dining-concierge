@@ -22,11 +22,11 @@ Contributors: Sheena Garg (sg7394@nyu.edu), Surya Das (ss16949@nyu.edu)
 ### Screenshots
 
 ![IMG-20231015-WA0017](https://github.com/suryasdas/dining-concierge/assets/47587516/8e7acc20-3275-40d7-b944-a8503f46397c)
+
 ![IMG-20231015-WA0015](https://github.com/suryasdas/dining-concierge/assets/47587516/84037a3d-2e38-4daa-a70c-23986e77313f)
+
 ![IMG-20231015-WA0018](https://github.com/suryasdas/dining-concierge/assets/47587516/e0941b1c-1cad-447e-9fb4-ef5993879074)
+
 ![IMG-20231015-WA0016](https://github.com/suryasdas/dining-concierge/assets/47587516/186eedb9-67d6-4c4d-860d-4fb1209dec3f)
-![image](https://github.com/suryasdas/dining-concierge/assets/47587516/490b3625-8cae-4ca5-a88e-050854676faa)
 
-
-
-
+![WhatsApp Image 2023-10-15 at 21 06 01_40d4a98d](https://github.com/suryasdas/dining-concierge/assets/47587516/fc393c16-04d5-4ab2-a24a-60b8ddde4a78)
