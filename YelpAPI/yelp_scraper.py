@@ -33,7 +33,6 @@ for cuisine in cuisine_types:
     if response.status_code == 200:
         data = response.json()
         # Print the entire response for debugging
-        # print(data)
         
         # Check if "businesses" key exists in the response
         if "businesses" in data:
@@ -49,8 +48,6 @@ for cuisine in cuisine_types:
 
 # Ensure no duplicates by using business IDs
 unique_restaurants = {restaurant["id"]: restaurant for restaurant in restaurants}.values()
-# print(unique_restaurants)
-
 
 # Initialize DynamoDB client
 dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
