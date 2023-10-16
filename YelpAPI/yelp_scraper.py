@@ -6,7 +6,7 @@ import requests
 
 # Set up the Yelp API endpoint and API key
 url = "https://api.yelp.com/v3/businesses/search"
-api_key = "n8ULjh_P4VgL3blYqDc0k187edVkGMJV1UNe-FVvjc4ByADgaTIHQNE6jp89f8D1QqUtnyHk_OGGPZpcDEipMMIv30OeXBfvIG448yJtYkE3uV73dIrLKpM38Q0mZXYx"
+api_key = "*****************"
 # Define your cuisine types
 cuisine_types = ["Chinese","Mexican","Japanese","Indian","Italian"]
 
@@ -20,7 +20,7 @@ for cuisine in cuisine_types:
     }
 
     headers = {
-        "Authorization":"Bearer n8ULjh_P4VgL3blYqDc0k187edVkGMJV1UNe-FVvjc4ByADgaTIHQNE6jp89f8D1QqUtnyHk_OGGPZpcDEipMMIv30OeXBfvIG448yJtYkE3uV73dIrLKpM38Q0mZXYx", 
+        "Authorization":"Bearer ********************", 
         "accept":"application/json"
     }
 

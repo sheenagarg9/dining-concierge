@@ -17,7 +17,7 @@ def getRecommendationsfromElasticSearch(cuisine):
     service = 'es'
 
     # credentials = boto3.Session().get_credentials()
-    awsauth = ("suryasdas", "Suryasdas@1")
+    awsauth = ("*********", "********")
     url = 'https://'+es_host
     
     # test ES connection
