@@ -56,7 +56,7 @@ def validateIntent(intent):
         )
     if date is not None and datetime.datetime.strptime(date, '%Y-%m-%d').date() <= datetime.date.today():
         return buildInvalidResponse(
-            False, 
+            False,
             'Date',
             'Reservations must be scheduled at least one day in advance. Can you try a different date?'
         )
@@ -258,7 +258,7 @@ def dispatch(intent_request):
                 'fulfillmentState': 'Fulfilled',
                 'message': {
                     'contentType': 'PlainText',
-                    'content': 'ThankYouIntent called by Sheena'
+                    'content': 'It was great assisting you, hope you have a great time!'
                 }
             }
         }
